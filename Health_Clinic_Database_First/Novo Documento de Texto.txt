@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=NOTE13-S15; initial catalog=Health_Clinic; User Id = sa; Pwd = Senai@134; TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domains -ContextDir Contexts -Context InLockContext
