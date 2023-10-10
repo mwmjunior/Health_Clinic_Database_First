@@ -31,6 +31,9 @@ namespace Health_Clinic_Database_First.Repositories
 
         public void Cadastrar(Consultorio clinica)
         {
+            // chama o metodo "clinica" , depois o id da Clinica
+            clinica.IdClinica = Guid.NewGuid();
+
             //Clinica e referenciada da Context
             ctx.Clinica.Add(clinica);    
 

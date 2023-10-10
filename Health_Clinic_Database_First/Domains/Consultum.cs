@@ -23,3 +23,4 @@ public partial class Consultum
 
     public virtual Paciente IdPacienteNavigation { get; set; } = null!;
 }
+

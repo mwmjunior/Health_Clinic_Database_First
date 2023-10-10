@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First1.3\\Health_Clinic_Database_First.csproj": {}
+    "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First\\Health_Clinic_Database_First\\Health_Clinic_Database_First.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First1.3\\Health_Clinic_Database_First.csproj": {
+    "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First\\Health_Clinic_Database_First\\Health_Clinic_Database_First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First1.3\\Health_Clinic_Database_First.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First\\Health_Clinic_Database_First\\Health_Clinic_Database_First.csproj",
         "projectName": "Health_Clinic_Database_First",
-        "projectPath": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First1.3\\Health_Clinic_Database_First.csproj",
+        "projectPath": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First\\Health_Clinic_Database_First\\Health_Clinic_Database_First.csproj",
         "packagesPath": "C:\\Users\\Gabriela\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First1.3\\obj\\",
+        "outputPath": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First\\Health_Clinic_Database_First\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriela\\AppData\\Roaming\\NuGet\\NuGet.Config",

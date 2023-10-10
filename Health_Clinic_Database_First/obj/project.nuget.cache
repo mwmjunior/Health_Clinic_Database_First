@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JIDOciipGu1gWWJFEWTF0DRNe3bsmZREjtGpSwWkQ0SWrBAptJpv1ajO0K5ISiMWJHAgMQxQ8yxxzv3TMM4aIw==",
+  "dgSpecHash": "ZbmGyr9cZH0cA9F6qaEPMxc+aQpRmWkXBwLtGkXM7gTv1leHKQ1QdZ2dc0KRW4AutzLqC+H98dO36SK164nhRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First1.3\\Health_Clinic_Database_First.csproj",
+  "projectFilePath": "C:\\Users\\Gabriela\\Desktop\\Health_Clinic_Database_First\\Health_Clinic_Database_First\\Health_Clinic_Database_First.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriela\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Gabriela\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
